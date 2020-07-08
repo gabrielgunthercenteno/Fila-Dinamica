@@ -1,4 +1,4 @@
-# Fila-Dinamica
+# Fila Dinâmica
 
 Projeto de Estrutura de Dados da disciplina de linguagem de Programação 2:
 
